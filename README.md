@@ -32,3 +32,20 @@ Lab6_DT/
 ├── Lab6_TestCases_Design.xlsx          # ไฟล์บันทึกตาราง Decision Table และผลการทดสอบ
 ├── pom.xml                             # Maven Dependencies (JUnit 5 / Parameterized Test)
 └── README.md                           # อธิบายรายละเอียดโปรเจกต์
+```
+
+
+# 🛠 สภาพแวดล้อมและเครื่องมือที่ใช้ (Test Environment)
+
+### 💻 System Specifications
+- **Laptop Model:** Acer Aspire A515-58M
+- **OS:** Windows 11 Home (64-bit, x64)
+- **CPU:** 13th Gen Intel(R) Core(TM) i5-13420H (2.10 GHz)
+- **RAM:** 16.0 GB
+
+### 🛠 Software Tools & Frameworks
+- **Java Version:** Java 21 (รันภายใต้สภาพแวดล้อมคอมไพเลอร์ JavaSE-1.8/Java 21)
+- **IDE:** Eclipse IDE
+- **Build Tool:** Maven
+- **Testing Framework:** JUnit 5 (JUnit Jupiter)
+- **Version Control:** Git & GitHub
